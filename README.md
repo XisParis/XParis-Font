@@ -1,4 +1,4 @@
-🌐 **Fonte personalizada com jogos via HTTP, criada para uso pessoal.**
+🌐 **Fonte jogos pré-instalados via HTTP.**
 
 ---
 
