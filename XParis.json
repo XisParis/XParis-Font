@@ -18,12 +18,44 @@
             "fileSize": "3 GB"
         },
         {
-            "title": "Resident Evil 2",
+            "title": "Resident Evil 2 (not Remake)",
             "uris": [
                 "https://gofile.io/d/AdLDVR"
             ],
             "uploadDate": "2025-05-28T10:00:00.000Z",
             "fileSize": "22 GB"
+        },
+        {
+            "title": "Resident Evil / biohazard HD REMASTER",
+            "uris": [
+                "https://gofile.io/d/5HzHuW"
+            ],
+            "uploadDate": "2025-05-28T10:00:00.000Z",
+            "fileSize": "15.4 GB"
+        },
+        {
+            "title": "People Playground (v1.28.2)",
+            "uris": [
+                "https://gofile.io/d/dRTHY3"
+            ],
+            "uploadDate": "2025-05-28T10:00:00.000Z",
+            "fileSize": "194 MB"
+        },
+        {
+            "title": "GoreBox (v1.15.17.3)",
+            "uris": [
+                "https://gofile.io/d/WFz47A"
+            ],
+            "uploadDate": "2025-05-28T10:00:00.000Z",
+            "fileSize": "1.0 GB"
+        },
+        {
+            "title": "Supermarket Simulator (v0.9.0)",
+            "uris": [
+                "https://gofile.io/d/FSlk0j"
+            ],
+            "uploadDate": "2025-05-28T10:00:00.000Z",
+            "fileSize": "1.7 GB"
         }
     ]
 }
