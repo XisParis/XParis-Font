@@ -24,7 +24,7 @@ Esta fonte está pública para que o *crawler* do Hydra Launcher consiga acessá
 🛑 **Sobre malwares**
 
 Me poupe de perguntas.  
-Estude ao menos **2 anos de cibersegurança** para entender o básico e não encher meu saco.
+Estude ao menos **1 ano de cibersegurança** para entender o básico e não encher meu saco.
 
 ---
 
