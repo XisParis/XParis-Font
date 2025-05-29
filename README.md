@@ -33,3 +33,7 @@ Estude ao menos **1 ano de cibersegurança** para entender o básico e não ench
 **P:** Por que essa fonte existe?  
 **R:** Simplesmente tive vontade de fazer pra uso próprio.  
 Aqui armazeno os jogos mais seguros, vindos das fontes mais confiáveis, com base nas novidades da comunidade em destaque no Reddit.
+
+
+Ultimo UPDATE Readme: 28/05/2025
+Ultimo UPDATE XParis.json: 28/05/2025
