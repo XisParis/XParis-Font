@@ -1,4 +1,4 @@
-![xp](https://github.com/user-attachments/assets/32273ecd-f04d-408a-a820-843abb843b3e)
+<img src="https://github.com/user-attachments/assets/32273ecd-f04d-408a-a820-843abb843b3e" alt="XParis" width="200"/>
 
 ---
 
