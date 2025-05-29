@@ -2,6 +2,8 @@
   <img src="https://github.com/user-attachments/assets/32273ecd-f04d-408a-a820-843abb843b3e" alt="XParis" height="400"/>
 </p>
 
+
+[Adicionar Ao Hydra Launcher](hydralauncher://install-source?urls=https://raw.githubusercontent.com/XisParis/XParis-Hydra/refs/heads/main/XParis.json)
 ---
 
 ✅ Esta fonte contém, em sua grande maioria,  
