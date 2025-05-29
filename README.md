@@ -3,7 +3,7 @@
 </p>
 
 
-[Adicionar Ao Hydra Launcher](hydralauncher://install-source?urls=https://raw.githubusercontent.com/XisParis/XParis-Hydra/refs/heads/main/XParis.json)
+Pagina: https://xparis.pages.dev
 ---
 
 ✅ Esta fonte contém, em sua grande maioria,  
@@ -31,13 +31,3 @@ Me poupe de perguntas.
 Estude ao menos **1 ano de cibersegurança** para entender o básico e não encher meu saco.
 
 ---
-
-❓ **Pergunta(s) comum**
-
-**P:** Por que essa fonte existe?  
-**R:** Simplesmente tive vontade de fazer pra uso próprio.  
-Aqui armazeno os jogos mais seguros, vindos das fontes mais confiáveis, com base nas novidades da comunidade em destaque no Reddit.
-
-
-Ultimo UPDATE Readme: 28/05/2025
-Ultimo UPDATE XParis.json: 28/05/2025
